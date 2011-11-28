@@ -1,0 +1,25 @@
+<ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>
+  <objects>
+    <entry>
+      <null/>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Address>
+        <civicNumber>123</civicNumber>
+        <street>Sainte-Catherine</street>
+        <city>Montreal</city>
+        <province>QC</province>
+        <postalCode>H0H 0H0</postalCode>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Address>
+    </entry>
+    <entry>
+      <int>1753301011</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Address>
+        <id>1753301011</id>
+        <civicNumber>123</civicNumber>
+        <street>Sainte-Catherine</street>
+        <city>Montreal</city>
+        <province>QC</province>
+        <postalCode>H0H 0H0</postalCode>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Address>
+    </entry>
+  </objects>
+</ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>

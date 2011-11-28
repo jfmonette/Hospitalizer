@@ -1,0 +1,17 @@
+<ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>
+  <objects>
+    <entry>
+      <int>686231088</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.security.User>
+        <id>686231088</id>
+        <userName>jsmith</userName>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <password>123</password>
+        <roles class="list">
+          <ca.uqam.mgl7460.a2011.hospitalizer.security.roles.Doctor/>
+        </roles>
+      </ca.uqam.mgl7460.a2011.hospitalizer.security.User>
+    </entry>
+  </objects>
+</ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>

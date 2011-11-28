@@ -1,0 +1,88 @@
+<ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>
+  <objects>
+    <entry>
+      <int>748372710</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+        <id>748372710</id>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <dateOfBirth>2011-11-28 03:03:24.574 UTC</dateOfBirth>
+        <address>
+          <civicNumber></civicNumber>
+          <street></street>
+          <city></city>
+          <province></province>
+          <postalCode></postalCode>
+        </address>
+        <patientFile>
+          <observations class="list">
+            <ca.uqam.mgl7460.a2011.hospitalizer.domain.Observation>
+              <recordedDate>2011-11-28 03:03:24.574 UTC</recordedDate>
+              <observedDate>2011-11-28 03:03:24.574 UTC</observedDate>
+              <description>John has high blood glucose level.</description>
+            </ca.uqam.mgl7460.a2011.hospitalizer.domain.Observation>
+            <ca.uqam.mgl7460.a2011.hospitalizer.domain.Observation>
+              <recordedDate>2011-11-28 03:03:24.574 UTC</recordedDate>
+              <observedDate>2011-11-28 03:03:24.574 UTC</observedDate>
+              <description>John suffers from hyperglycemia .</description>
+            </ca.uqam.mgl7460.a2011.hospitalizer.domain.Observation>
+          </observations>
+        </patientFile>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+    </entry>
+    <entry>
+      <int>1991458058</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+        <id>1991458058</id>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <dateOfBirth>2011-11-28 03:01:24.465 UTC</dateOfBirth>
+        <address>
+          <civicNumber></civicNumber>
+          <street></street>
+          <city></city>
+          <province></province>
+          <postalCode></postalCode>
+        </address>
+        <patientFile>
+          <observations class="list"/>
+        </patientFile>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+    </entry>
+    <entry>
+      <int>697542255</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+        <id>697542255</id>
+        <firstName>Jean-Francois</firstName>
+        <lastName>Monette</lastName>
+        <dateOfBirth>1983-03-22 05:00:00.0 UTC</dateOfBirth>
+        <address>
+          <civicNumber></civicNumber>
+          <street></street>
+          <city></city>
+          <province></province>
+          <postalCode></postalCode>
+        </address>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+    </entry>
+    <entry>
+      <int>536357250</int>
+      <ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+        <id>536357250</id>
+        <firstName>John</firstName>
+        <lastName>Smith</lastName>
+        <dateOfBirth>2011-11-28 02:56:27.231 UTC</dateOfBirth>
+        <address>
+          <civicNumber></civicNumber>
+          <street></street>
+          <city></city>
+          <province></province>
+          <postalCode></postalCode>
+        </address>
+        <patientFile>
+          <observations class="list"/>
+        </patientFile>
+      </ca.uqam.mgl7460.a2011.hospitalizer.domain.Patient>
+    </entry>
+  </objects>
+</ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>
