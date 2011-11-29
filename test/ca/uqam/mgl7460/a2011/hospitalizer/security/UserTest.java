@@ -2,7 +2,10 @@ package ca.uqam.mgl7460.a2011.hospitalizer.security;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.roles.*;
+
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.User;
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles.Clerk;
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles.Role;
 
 public class UserTest {
 

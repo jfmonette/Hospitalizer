@@ -1,8 +1,9 @@
-package ca.uqam.mgl7460.a2011.hospitalizer.security;
+package ca.uqam.mgl7460.a2011.hospitalizer.aspects.security;
 
 import java.util.*;
+
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles.Role;
 import ca.uqam.mgl7460.a2011.hospitalizer.data.Persistable;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.roles.Role;
 
 public class User extends Persistable {
 	private String userName;

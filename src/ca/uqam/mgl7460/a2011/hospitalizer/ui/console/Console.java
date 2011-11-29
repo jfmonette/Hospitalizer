@@ -1,7 +1,7 @@
 package ca.uqam.mgl7460.a2011.hospitalizer.ui.console;
 
 import ca.uqam.mgl7460.a2011.hospitalizer.application.SecurityService;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.User;
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.User;
 import ca.uqam.mgl7460.a2011.hospitalizer.util.InputReader;
 
 public class Console {

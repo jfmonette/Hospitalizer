@@ -1,4 +1,4 @@
-package ca.uqam.mgl7460.a2011.hospitalizer.security.roles;
+package ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles;
 
 public class Clerk extends Role {
 	public boolean equals(Object obj) {

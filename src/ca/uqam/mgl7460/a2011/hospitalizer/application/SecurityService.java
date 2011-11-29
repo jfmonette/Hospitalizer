@@ -1,8 +1,9 @@
 package ca.uqam.mgl7460.a2011.hospitalizer.application;
 
 import java.util.*;
+
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.User;
 import ca.uqam.mgl7460.a2011.hospitalizer.data.*;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.User;
 
 public class SecurityService {
 	public User authenticate(String userName, String password) {

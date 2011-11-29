@@ -4,9 +4,10 @@ import static org.junit.Assert.*;
 import java.util.Collection;
 import java.util.Date;
 import org.junit.Test;
+
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.*;
+import ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles.*;
 import ca.uqam.mgl7460.a2011.hospitalizer.domain.*;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.*;
-import ca.uqam.mgl7460.a2011.hospitalizer.security.roles.*;
 
 public class PersistanceServiceTest {
 

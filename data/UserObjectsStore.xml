@@ -2,16 +2,16 @@
   <objects>
     <entry>
       <int>686231088</int>
-      <ca.uqam.mgl7460.a2011.hospitalizer.security.User>
+      <ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.User>
         <id>686231088</id>
         <userName>jsmith</userName>
         <firstName>John</firstName>
         <lastName>Smith</lastName>
         <password>123</password>
         <roles class="list">
-          <ca.uqam.mgl7460.a2011.hospitalizer.security.roles.Doctor/>
+          <ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.roles.Doctor/>
         </roles>
-      </ca.uqam.mgl7460.a2011.hospitalizer.security.User>
+      </ca.uqam.mgl7460.a2011.hospitalizer.aspects.security.User>
     </entry>
   </objects>
 </ca.uqam.mgl7460.a2011.hospitalizer.data.ObjectsStore>
