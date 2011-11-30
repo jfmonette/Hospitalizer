@@ -15,9 +15,9 @@ public class Patient extends Persistable {
 	
 	public Patient(String firstName, String lastName, Date dateOfBirth) {
 		super();
-		this.firstName = firstName;
-		this.lastName = lastName;
-		this.dateOfBirth = dateOfBirth;
+		setFirstName(firstName);
+		setLastName(lastName);
+		setDateOfBirth(dateOfBirth);
 		this.address = new Address();
 		this.patientFile = new PatientFile();
 	}
