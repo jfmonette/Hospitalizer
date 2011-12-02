@@ -1,0 +1,6 @@
+User null has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.data.PersistanceService
+User null has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.data.PersistanceService
+User null has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.data.PersistanceService
+User null has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.data.PersistanceService
+User null has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.data.PersistanceService
+User jsmith has used the following service : ca.uqam.mgl7460.a2011.hospitalizer.application.SecurityService
